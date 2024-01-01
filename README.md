@@ -4,4 +4,4 @@ The `sleep` function is an asynchronous utility in JavaScript used to introduce 
 
 Link of the problem:
 Check out this coding interview problem on LeetCode!
-https://leetcode.com/problems/sleep/description/ 
+https://leetcode.com/problems/sleep/
